@@ -31,6 +31,7 @@ System.out.println("\nDisplaying student details:");
     
 for (Student s : students) {
 s.display();
+sc.close();
 }
 }
 }
