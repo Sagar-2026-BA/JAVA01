@@ -2,7 +2,7 @@ package package2;
 
 import package1.AccessSpecifierDemo;
 
-public class AccessSpecifierTest02 extends AccessSpecifierDemo {
+public class AccessSpecifierTest extends AccessSpecifierDemo {
     public static void main(String[] args) {
         AccessSpecifierTest obj = new AccessSpecifierTest();
 
